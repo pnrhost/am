@@ -1,0 +1,158 @@
+
+div.mobilehome_scrollmenu {
+    background-color: #fff;
+    overflow: auto;
+    white-space: nowrap;
+    width: 98%;
+    margin-left: 32px;
+    border-radius: 8px;
+    text-align: center;
+    position: absolute;
+    top: 42%;
+}
+
+div.mobilehome_scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.ui-mobile a img, .ui-mobile fieldset {
+    border-width: 0;
+}
+
+.mobile-scroll {
+  background-color: #fff;
+    overflow: auto;
+    white-space: nowrap;
+    width: 98%;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+    margin-top: -200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mobile-thumb {
+    text-align: center;
+    width: 35%;
+    float: left;
+    display: block;
+}
+
+.mobile-title {
+   font-weight: normal;
+    max-height: 6em;
+    white-space: normal;
+    word-wrap: break-word;
+    width: 100%;
+    display: block;
+    text-overflow: ellipsis;
+    color: #505050;
+    text-align: left;
+    padding-bottom: 4px;
+    float: left;
+}
+
+.mobile-title h3 {
+
+    font-size: 15px !important;
+}
+
+.mobile-price {
+	color: #ff9909;
+	width: 45%;
+    float: right;
+    display: block;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: right;
+}
+
+.mobile-right {
+	width: 65%;
+	float: right;
+	padding: 10px;
+}
+
+
+
+.mobile-auction-item {
+    width: 100%;
+    float: left;
+    padding: 4px;
+    border-bottom:1px solid #d3d6d9;
+}
+
+.left-half {
+	float: left;
+	width: 50%;
+}
+.right-half {
+	float: right;
+	width: 50%;
+}
+
+.special-row {
+	    display: block;
+    padding: 6px;
+    float: left;
+    width: 100%;
+}
+
+.browse-categories {
+	padding: 16px;
+	font-size: 20px;
+    text-align: center;
+    background: #eee;
+    width: 96%;
+    margin: 0 auto;
+}
+
+.browse-categories .icon {
+float: left;
+width: 20%;
+line-height: 30px;
+}
+
+.half-icon svg {
+    border-radius: 50%;
+    font-size: 30px;
+}
+
+.browse-categories .categories-title{
+	width: 80%;
+	line-height: 30px;
+    float: right;
+}
+
+.half-text {
+	line-height: 30px;
+    font-size: 20px;
+}
+
+.browse-categories a {
+	color: #3c4858;
+}
+
+.mobile-view-more-text {
+	padding: 4px 4px 4px 25px;
+    text-align: left;
+    float: left;
+    width: 70%;
+}
+
+.mobile-view-image {
+	padding: 4px 4px 4px 25px;
+    text-align: right;
+    float: right;
+    width: 30%;
+}
+.mobile-view-more a {
+    color: #ffffff;
+    background: #6e7372;
+    display: block;
+}
+

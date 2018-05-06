@@ -1,0 +1,15 @@
+.categories h3 {
+    color: #ff9103;
+    font-size: 14px;
+    font-weight: bold;
+    background: 0;
+    padding: 8px;
+    text-indent: 10px;
+    background-color: #f3f1f2;
+    width: 100%;
+    line-height: normal;
+    background: -moz-linear-gradient(top,#ececec,#dadada);
+    background: -webkit-gradient(linear,0 0,0 100%,from(#ececec),to(#dadada));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ececec',endColorstr='#dadada');
+    background-image: -o-linear-gradient(top,#ececec,#dadada);
+}
