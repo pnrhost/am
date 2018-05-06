@@ -142,8 +142,8 @@ include "includes/header.php";
   </div>
 <div class="clearfix"></div>
 
-<hr>
-<div class="specials">
+<hr class="hidden-lg hidden-md">
+<div class="specials hidden-lg hidden-md">
   <!-- Special row -->
   <div class="special-row">
   <div class="left-half">

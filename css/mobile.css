@@ -156,3 +156,15 @@ line-height: 30px;
     display: block;
 }
 
+
+
+/* Hide promo on mobile  */
+@media only screen and (max-width:768px){
+   .mobile-product-image {
+    background: red;
+}
+}
+
+.tradelistrowitem a {
+display: block;
+}

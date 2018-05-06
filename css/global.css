@@ -2059,8 +2059,8 @@ a.bob-btn {
 }
 
 .tradelist_item_thumbnailbox_big, .tradelist_item_thumbnailbox_gridvert_big {
-    width: 120px;
-    height: 120px;
+   /* width: 120px;
+    height: 120px;*/
 }
 .tradelist_item_thumbnailbox_big, .tradelist_item_thumbnailbox_small {
     border: 1px #f7f7f7 solid;
@@ -2070,16 +2070,13 @@ a.bob-btn {
 }
 
 .tradelist_item_thumbnail_big {
-    width: 120px;
-    height: 120px;
     border: 0;
 }
 
 .tradelistrowitem .col2 {
-    float: left;
+    /*float: left;*/
     margin-left: 5px;
     position: relative;
-    width: 460px;
     height: 100%;
 }
 
@@ -2116,9 +2113,6 @@ a.bob-btn {
 }
 
 .tradelistrowitem .actions {
-    position: absolute;
-    right: 0;
-    bottom: 10px;
     text-align: right;
 }
 
@@ -2803,8 +2797,8 @@ cursor: pointer;
 }
 
 .tradelist_item_thumbnail_big {
-    width: 120px;
-    height: 120px;
+    width: 100%;
+    height: auto;
     border: 0;
 }
 
