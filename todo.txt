@@ -1,0 +1,26 @@
+Mobile Optimisations
+=====================
+Privy
+---------------------
+Home
+category
+categories
+individual auction
+creat auction / edit auction
+Sell Item
+User dashboard
+404
+travel
+mobile hambagger menu
+
+Delighty
+---------------------
+Notifications
+About us
+Complaint
+Sign in
+Register
+Password reset
+Compose message
+inbox messages
+
