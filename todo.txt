@@ -15,12 +15,12 @@ mobile hambagger menu
 
 Delighty
 ---------------------
-Notifications
-About us
-Complaint
-Sign in
-Register
-Password reset
-Compose message
-inbox messages
+Notifications          (done)
+About us                (done)
+Complaint               (done)
+Sign in                 (done)
+Register                (done)
+Password reset           (done)
+Compose message           (done)
+inbox messages            (done)
 

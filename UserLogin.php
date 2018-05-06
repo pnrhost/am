@@ -20,11 +20,11 @@ include "includes/header.php";
 </style>
 
 <div class="content_wrapper">
-<div class="login row">
+<div class="login">
 
 
 <div class="col-md-6">
-    <div style="min-height: 268px; border: 1px solid #c3c6c9; border-radius: 5px; padding: 20px;min-height: 268px; background-color: #f3f6f9; border-radius: 5px; padding: 20px;">
+    <div style="min-height: 60%; border: 1px solid #c3c6c9; border-radius: 5px; padding: 20px;min-height: 268px; background-color: #f3f6f9; border-radius: 5px; padding: 20px;">
       <h2 style="margin-bottom: 15px; font-weight: normal;">Sign in</h2>
 
       <form id="Login" method="post" action="UserLogin.php" >

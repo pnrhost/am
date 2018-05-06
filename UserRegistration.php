@@ -15,10 +15,10 @@ margin-top: 7px;
 }
 </style>
 <div class="content_wrapper">
-  <div class="row">
+
     <div class="register">
       <div class="col-md-6">
-        <div class="span6" style="height: 600px; border: 1px solid #c3c6c9; border-radius: 5px; padding: 20px;">
+        <div style="height: 60%; border: 1px solid #c3c6c9; border-radius: 5px; padding: 20px;background-color: #f3f6f9;">
           <h2 style="margin-bottom: 15px; font-weight: normal;">Join bidorbuy</h2>
           <form id="registration" action="UserRegistration.php">
             
@@ -86,7 +86,7 @@ margin-top: 7px;
           Buyer Protection Programme
         </div>
       </div>
-    </div></div>
+    </div>
   </div>
 
   <div class="space-clear-10"></div>

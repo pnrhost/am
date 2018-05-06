@@ -4,18 +4,8 @@ include "includes/header.php";
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/auction.css">
 
-<div class="content_wrapper">
-    <div class="categoryheaderinclude">
-  <h1 title="Home| Notifications">Home| Notifications</h1>
-</div>
-
-<div class="space-clear-10"></div>
-<div class="row">
-    <div class="col-md-12">
-        <?php include 'includes/breadcrumb.php'; ?>
-    </div>
-    </div>
-  </div>
+<?php  include "includes/title.php"; ?>
+ 
 <div class="content_wrapper">
   <hr>
   <div class="col-sm-12 ">

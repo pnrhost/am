@@ -7,7 +7,7 @@ include "includes/header.php";
     <h1 title="Artwork for Sale | Art Shop">Home | Messages</h1>
   </div>
   <div class="space-clear-10"></div>
-  <div class="row">
+  
     <div class="col-md-12">
         <?php include 'includes/breadcrumb.php'; ?>
     </div>
@@ -87,7 +87,7 @@ include "includes/header.php";
 </div>
 
 </div>
-</div>
+
 </div>
 <?php
 include "includes/footer.html";

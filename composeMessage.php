@@ -4,7 +4,7 @@ include "includes/header.php";
 <link rel="stylesheet" type="text/css" href="css/index.css">
 
 <div class="content_wrapper">
-  <div class="row">
+  
     <div class="col-md-12">
       <div class="span6" style="min-height: 268px; background-color: #f3f6f9; border-radius: 5px; padding: 20px;">
         <h2>Compose Message</h2>
@@ -38,7 +38,7 @@ include "includes/header.php";
         </form>
       </div>
     </div>
-  </div>
+
 </div>
 <div class="space-clear-10"></div>
 <?php

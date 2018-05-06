@@ -4,7 +4,7 @@ include "includes/header.php";
 <link rel="stylesheet" type="text/css" href="css/index.css">
 
     <div class="content_wrapper " >
-        <div class="row">
+      
 <div class="col-md-12" >
             <!--BEGIN LAYOUT BLOCK 1--> 
 
@@ -47,7 +47,7 @@ include "includes/header.php";
 
             <!--END OF LAYOUT BLOCK 2--> 
             </div>
-        </div>
+    
 
             <!--END OF CONTAINER--></div>
 
