@@ -16,4 +16,8 @@
 		<link rel="stylesheet" type="text/css" href="css/homepage-sidebar.css">
 		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="css/mobile.css">
-	</head>
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Nunito:700">
+		<link rel="stylesheet" type="text/css" href="https://dl.dropbox.com/s/tb1hmq8sr5gh1mu/flaticon.css">
+		<script type="text/javascript" src="https://cdn.jsdelivr.net/domtastic/0.12/domtastic.min.js"></script>
+		<script type="text/javascript" src="https://hammerjs.github.io/dist/hammer.min.js"></script>
+		</head>

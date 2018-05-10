@@ -4,15 +4,51 @@ include "includes/header.php";
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/auction.css">
 
+<div class="wrapper hidden-lg hidden-md">
+      <div class="sidebar">
+        <div class="brand">A-Mail</div>
+        <div class="menu">
+          <ul>
+            <li><a href="individual_auction.php"><i class="glyph-icon flaticon-user"></i> Single Auction</a></li>
+            <li><a href="categories.php"><i class="glyph-icon flaticon-like"></i> Categories</a></li>
+            <li><a href="notifications.php"><i class="glyph-icon flaticon-like-1"></i>Notifications</a></li>
+            <li><a href="about.php"><i class="glyph-icon flaticon-vision"></i> About us</a></li>
+            <li><i class="glyph-icon flaticon-mail"></i> Contact us </li>
+            <li><a href="composeMessage.php"><i class="glyph-icon flaticon-info"></i> Compose Message</a></li>
+            <li><a href="composeMessage.php"><i class="glyph-icon flaticon-user"></i> Login</a></li>
+            <li><i class="glyph-icon flaticon-user"></i> Register</li>
+            <li><i class="glyph-icon flaticon-like-1"></i> Why buy juuce?</li>
+            <li><i class="glyph-icon flaticon-vision"></i> About us</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="content no-animation"  data-pos="0">
+        <div>
+
+          <div id="openMenu">
+            <div></div>
+            <div></div>
+            <div></div>
+          </div>
+          <div id="shoppingIcon">
+            <span>4</span>
+            <i class="glyph-icon flaticon-cart"></i>
+          </div>
+          <div class="header">
+            <h3>AuctionMail</h3>
+            <small>Sell/buy It</small>
+          </div>
+          <div class="triangle"  ></div>
+            
+    <div class="col-md-12" style="padding: 0; margin-top: -100px; ">
 
 <div class="page-title">
-<div class="content_wrapper">
-    <div class="categoryheaderinclude">
-  <h1 title="Artwork for Sale | Art Shop">Action Category | Auction Title</h1>
+<?php include 'includes/page-title.php'; ?>
 </div>
-</div>
-</div>
-<div class="content_wrapper">
+
+
+<div class="content_wrapper hidden-sm hidden-xs">
 <div class="space-clear-10"></div>
 <div class="row">
     <div class="col-md-12">
@@ -26,28 +62,27 @@ include "includes/header.php";
 <div class="col-md-12" style="padding: 0;">
   <div class="item_page_top_block">
   
-  <div class="item_page_top_left">
+  <div class="item_page_top_left col-sm-12 col-xs-12">
     <div class="item_page_images">
     <div class="big_image_box">
     <div class="slider big_image_slider popupImagesPane" title="View larger image">
         <img src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnx/https://img.bidorbuy.co.za/image/upload/v1523439174/user_images/385/493385/180411113244_1888%209.jpg" alt="1888 OFS Pattern Penny Proof Struck on Thick Blank!">
       </div>
+      <div class="clearfix hidden-md hidden-lg"></div>
       <div class="popupImagesIcon fa fa-search" title="View larger image"></div>
     </div>
   </div> <div class="item_page_popup_images">
   <a class="item_image" href="https://img.bidorbuy.co.za/image/upload/v1523439174/user_images/385/493385/180411113244_1888%209.jpg" title=""></a>
   </div>
-<script type="text/javascript">
-<!--
-  $.bobeItemPageImages.initialiseItemPageImages(1);
-//-->
-</script>
+
 
 
 </div>
+
+<div class="clearfix hidden-md hidden-lg"></div>
   
-  <div class="item_page_top_center">
-  
+  <div class="item_page_top_center col-sm-12 col-xs-12">
+  <div class="space-10 hidden-lg hidden-md"></div>
     <h1 class="item_title" title="1888 OFS Pattern Penny Proof Struck on Thick Blank!">1888 OFS Pattern Penny Proof Struck on Thick Blank!</h1>
 
     <span class="fn"><span class="value-title" property="v:name" content="1888 OFS Pattern Penny Proof Struck on Thick Blank!" title="1888 OFS Pattern Penny Proof Struck on Thick Blank!"></span></span>
@@ -83,7 +118,7 @@ include "includes/header.php";
               R100 min. increment
             </div>
             <div>
-              <input type="text" name="bidAmount" class="bidamountInput" id="item_bid_amount" placeholder="bid from R18,000" title="bid from R18,000" data-min-amount="18000.0" style="width:155px;">
+              <input type="text" name="bidAmount" class="bidamountInput mobile-top-and-bottom-10" id="item_bid_amount" placeholder="bid from R18,000" title="bid from R18,000" data-min-amount="18000.0" style="width:155px;">
             </div>
           </div>
           <input type="hidden" name="bidQuantity" value="1">
@@ -91,7 +126,7 @@ include "includes/header.php";
         </div>
         <div class="col-md-6">
           
-        <button class="bob-btn bob-btn-lg-single-auction btn-purple"  type="submit" value="Bid Now" id="ItemPageActionButtonHeader" name="ItemPageActionButtonHeader" title="Bid Now" >Bid Now</button>
+        <button class="bob-btn bob-btn-lg-single-auction btn-purple text-center"  type="submit" value="Bid Now" id="ItemPageActionButtonHeader" name="ItemPageActionButtonHeader" title="Bid Now" >Bid Now</button>
         </div>
          </div>
         <div class="clear"></div>
@@ -103,7 +138,7 @@ include "includes/header.php";
         <div class="row">
         <div class="col-md-6">
         <div class="big_price">
-            <meta itemprop="price" content="20000.0"><meta itemprop="priceCurrency" content="ZAR"><span class="bigPriceText2">R20,000</span></div>
+            <meta itemprop="price" content="20000.0"><meta itemprop="priceCurrency" content="ZAR"><span class="bigPriceText2 mobile-bottom-10">R20,000</span></div>
         <div class="discount" title="Discounted 60% from the indicative market price">-60%</div>
         </div>
         <div class="col-md-6">
@@ -118,14 +153,14 @@ include "includes/header.php";
       <div class="left_column">
         <div class="row">
       <div class="col-md-6">
-      <div class="cell light_text">
+      <div class="cell light_text mobile-left">
          Market price: R50,00</div>
        </div>
        <div class="col-md-6">
         <div class="cell text-right">
             <label class="label_70 light_text" for="item_date_close">Closes</label>
             <label id="item_date_close">
-              <span id="item_time_left" class="priceValidUntil" property="v:priceValidUntil" content="2018-04-29" title="2018-04-29">29 Apr 18 20:00</span>
+              <span id="item_time_left " class="priceValidUntil" property="v:priceValidUntil" content="2018-04-29" title="2018-04-29">29 Apr 18 20:00</span>
             </label>
         </div>
        </div>
@@ -137,9 +172,9 @@ include "includes/header.php";
     </div>
   </div> 
 </div> 
-<div class="vertical_divider"></div>
+<div class="vertical_divider hidden-xs hidden-sm"></div>
   
-  <div class="item_page_top_right">
+  <div class="item_page_top_right col-sm-12 col-xs-12">
   
     <div class="item_page_seller_block">
   <div class="seller_header">
@@ -175,8 +210,8 @@ include "includes/header.php";
 <div class="horizontal_divider"></div>
   
     <div class="user_profile_block">
-  <div>
-    <span class="label_90 light_text">Item Location</span> South Africa</div>
+  <div class="mobile-right">
+    <span class="label_90 light_text ">Location</span> South Africa</div>
 <div class="clear_break10"></div>
 <div class="buyer_protection">
   <a class="buyer_protection_198_img" href="https://www.bidorbuy.co.za/buyerprotection" title="This purchase is part of the bidorbuy Buyer Protection Programme. Click here to see how you're covered."></a>
@@ -185,7 +220,7 @@ include "includes/header.php";
 </div> <div class="clear"></div>
   
   <div class="id_block">
-    <div class="small_light_text">
+    <div class="small_light_text hidden-sm hidden-xs">
       bidorbuy ID: 337565128</div>
   </div>   
   <div class="clear_break10"></div>
@@ -194,10 +229,14 @@ include "includes/header.php";
 </div>
 </div>
 
+
+
 <!-- End of top auction section -->
+
+<div style="">
 <div class="space-clear-10"></div>
 <!-- Current bids -->
-<div class="content_wrapper" style="font-size: 12px;">
+<div class="content_wrapper" style="font-size: 12px; ">
 <div class="item_message_box_highlighted">
   <div class="item_message_content">
     <div class="itempage_purchase_history_title">
@@ -279,7 +318,7 @@ include "includes/header.php";
         <!-- BEGIN Portlet PORTLET-->
         <div class="portlet">
           <div class="portlet-title">
-            <div class="caption caption-red">
+            <div class="caption caption-red hidden-xs hidden-sm">
               <i class="glyphicon glyphicon-pushpin"></i>
               <span class="caption-subject bold font-yellow-crusta uppercase">
               More Details </span>
@@ -323,7 +362,7 @@ include "includes/header.php";
 
 
 <!-- Related Products -->
-<div class="content_wrapper">
+<div class="content_wrapper" style="">
 <div class="tradelistborderedgridinclude2">
 <h3>Similar items</h3> <div>
 <div class="clearline"></div>
@@ -331,7 +370,7 @@ include "includes/header.php";
   <div class="griditemblock" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
@@ -340,7 +379,7 @@ include "includes/header.php";
     <div class="section2Inner">
   
       <div class="tradelist_title" itemprop="name">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
 
      <div class="product_attributes">
@@ -358,7 +397,7 @@ include "includes/header.php";
       <div class="space-10"></div>
       <div class="actions">
         <div class="col-md-3"></div>
-        <button class="col-md-6 btn btn-purple">Bid Now</button>
+        <button class="col-md-6 btn btn-purple text-center">Bid Now</button>
         <div class="col-md-3"></div>
       </div>
       <div class="clearfix"></div>
@@ -367,12 +406,14 @@ include "includes/header.php";
     </div>
     </div> 
   </div>
+  <div class="clearfix visible-sm-* visible-sx-*"></div>
+  <hr class="visible-sm-* visible-sx-*">
 
   <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
@@ -381,7 +422,7 @@ include "includes/header.php";
     <div class="section2Inner">
   
       <div class="tradelist_title" itemprop="name">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
 
      <div class="product_attributes">
@@ -399,7 +440,7 @@ include "includes/header.php";
       <div class="space-10"></div>
       <div class="actions">
         <div class="col-md-3"></div>
-        <button class="col-md-6 btn btn-purple">Bid Now</button>
+        <button class="col-md-6 btn btn-purple text-center">Bid Now</button>
         <div class="col-md-3"></div>
       </div>
       <div class="clearfix"></div>
@@ -408,13 +449,14 @@ include "includes/header.php";
     </div>
     </div> 
   </div>
-  
+  <div class="clearfix visible-sm-* visible-sx-*"></div>
+  <hr class="visible-sm-* visible-sx-*">
 
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
@@ -423,7 +465,7 @@ include "includes/header.php";
     <div class="section2Inner">
   
       <div class="tradelist_title" itemprop="name">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
 
      <div class="product_attributes">
@@ -441,7 +483,7 @@ include "includes/header.php";
       <div class="space-10"></div>
       <div class="actions">
         <div class="col-md-3"></div>
-        <button class="col-md-6 btn btn-purple">Bid Now</button>
+        <button class="col-md-6 btn btn-purple text-center">Bid Now</button>
         <div class="col-md-3"></div>
       </div>
       <div class="clearfix"></div>
@@ -450,12 +492,13 @@ include "includes/header.php";
     </div>
     </div> 
   </div> 
-
+    <div class="clearfix visible-sm-* visible-sx-*"></div>
+<hr class="visible-sm-* visible-sx-*">
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
@@ -464,7 +507,7 @@ include "includes/header.php";
     <div class="section2Inner">
   
       <div class="tradelist_title" itemprop="name">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
+        <a href="individual_auction.php">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
 
      <div class="product_attributes">
@@ -477,12 +520,13 @@ include "includes/header.php";
         <div class="amount"><meta itemprop="price" content="287.08"><meta itemprop="priceCurrency" content="ZAR"><span class="bigPriceText2">R287.</span><span class="smallPriceText2">08</span></div>
       </div>
       <div class="seller">
-         <span class="user-summary"><span class="alias"><a href="https://www.bidorbuy.co.za/seller/643405/The_World_OnLine" title="Items The World OnLine is selling">The World OnLine</a></span><span class="user-verified inline-image bfa bfa-verified" title="Verified User"></span></span></div>      
+         <span class="user-summary"><span class="alias">
+          <a href="https://www.bidorbuy.co.za/seller/643405/The_World_OnLine" title="Items The World OnLine is selling">The World OnLine</a></span><span class="user-verified inline-image bfa bfa-verified" title="Verified User"></span></span></div>      
       <div class="time">Closes 5 May 00:00</div>
       <div class="space-10"></div>
       <div class="actions">
         <div class="col-md-3"></div>
-        <button class="col-md-6 btn btn-purple">Bid Now</button>
+        <button class="col-md-6 btn btn-purple text-center">Bid Now</button>
         <div class="col-md-3"></div>
       </div>
       <div class="clearfix"></div>
@@ -491,11 +535,13 @@ include "includes/header.php";
     </div>
     </div> 
   </div> 
+    <div class="clearfix visible-sm-* visible-sx-*"></div>
+  <hr class="visible-sm-* visible-sx-*">
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
@@ -504,7 +550,7 @@ include "includes/header.php";
     <div class="section2Inner">
   
       <div class="tradelist_title" itemprop="name">
-        <a href="https://www.bidorbuy.co.za/item/332002198/SMAEL_1436_Military_Style_LED_Digital_Watch_Display_Time_Date_Sport_Wristwatch_NO_NO_2.html" onclick="recordGoogleAnalyticsPromoOutboundClick(this, 'Item_Cross_Sell', 'banner_bottom', 'Jewellery &amp; Watches - Watches - Mens Watches','suggesteditems','banner_bottom');return false;" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
 
      <div class="product_attributes">
@@ -522,7 +568,7 @@ include "includes/header.php";
       <div class="space-10"></div>
       <div class="actions">
         <div class="col-md-3"></div>
-        <button class="col-md-6 btn btn-purple">Bid Now</button>
+        <button class="col-md-6 btn btn-purple text-center">Bid Now</button>
         <div class="col-md-3"></div>
       </div>
       <div class="clearfix"></div>
@@ -535,9 +581,27 @@ include "includes/header.php";
 </div>
 </div>
 <!-- /Related Products -->
+ </div>
+        </div>
+      </div>
+      
+    </div>
+    <!-- /.wrapper -->
+
+
+
+
+
+
+
+
+
+
 
 
 <div class="space-clear-10"></div>
 <?php
-include "includes/footer.html";
+// include "includes/footer.html";
 ?>
+
+</div>

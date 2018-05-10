@@ -3,7 +3,8 @@ include "includes/head.php";
 include "includes/top-menu.php";
 ?>
 <!-- Mobile Top -->
-<div class="mobile-top  visible-sm-* visible-xs">
+<!-- <div class="mobile-top  visible-sm-* visible-xs"> -->
+  <div class="mobile-top" style="display: none;">
  <div class="container">
     <div class="row">    
         <div class="col-xs-12" style="padding: 0">
@@ -14,7 +15,7 @@ include "includes/top-menu.php";
                 <input type="hidden" name="search_param" value="all" id="search_param">         
                 <input style="height: 40px; line-height: 60px; background: #ffffff; border-right: none;border-left: none;" type="text" class="form-control" name="x" placeholder="Search term...">
                 <span class="input-group-btn">
-                    <button style="height: 40px; border-left: none; border-right: none; border-top-right-radius: 0; border-top-right-radius: 0;" class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
+                    <button style="height: 40px; border-left: none; border-right: none; border-top-right-radius: 0; border-bottom-right-radius: 0;" class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
                 </span>
             </div>
         </div>

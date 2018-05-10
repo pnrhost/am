@@ -11,6 +11,48 @@ div.mobilehome_scrollmenu {
     top: 42%;
 }
 
+@media only screen and (max-width: 768px) {
+    .mobile-top-and-bottom-10 {
+        margin-top: 10px;
+    margin-bottom: 10px;
+    }
+
+    .mobile-bottom-10 {
+        margin-bottom: 10px;
+
+    }
+    .mobile-top-10 {
+        margin-top: 10px;
+
+    }
+
+    .mobile-left {
+        width: 50%;
+        float: left;
+    }
+
+    .mobile-right {
+        width: 50%;
+        float: right;
+    }
+
+    .mobile-right .light_text  {
+        text-align: right;
+    }
+
+    .big_image_slider img {
+        width: 100%;
+    }
+
+    .actions {
+        text-align: center;
+    }
+
+    .tradelistgriditem {
+        width: 100% !important;
+    }
+}
+
 div.mobilehome_scrollmenu a {
     display: inline-block;
     color: white;
@@ -71,11 +113,11 @@ div.mobilehome_scrollmenu a {
     text-align: right;
 }
 
-.mobile-right {
+/*.mobile-right {
 	width: 65%;
 	float: right;
 	padding: 10px;
-}
+}*/
 
 
 
@@ -167,4 +209,8 @@ line-height: 30px;
 
 .tradelistrowitem a {
 display: block;
+}
+
+
+
 }

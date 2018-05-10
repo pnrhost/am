@@ -2170,16 +2170,21 @@ a.bob-btn {
     -webkit-font-smoothing: antialiased;
 }
 
+@media only screen and (min-width:768px){
 .item_page_top_block .item_page_top_left {
     float: left;
     display: block;
     position: relative;
     width: 240px;
+    padding: 0;
     height: auto;
     margin: 20px 0 60px 20px;
 }
+}
 
-.item_page_images {
+
+@media only screen and (min-width: 768px) {
+    .item_page_images {
     width: 240px;
     margin: 0 auto;
     position: relative;
@@ -2204,6 +2209,10 @@ a.bob-btn {
     border: 0;
     padding: 0;
 }
+} 
+
+
+
 
 .item_page_images .popupImagesIcon {
     position: absolute;
@@ -2225,12 +2234,14 @@ a.bob-btn {
     left: -999em;
 }
 
+@media only screen and (min-width:768px){
 .item_page_top_block .item_page_top_center {
     float: left;
     display: block;
     position: relative;
     width: 425px;
     margin: 20px;
+}
 }
 
 .item_page_top_center h1.item_title {
@@ -2340,12 +2351,14 @@ padding: 15px;
     color: #a0a0a0;
 }
 
+@media only screen and (min-width: 768px){
 .item_page_top_block .item_page_top_right {
     float: right;
     display: block;
     position: relative;
     margin: 20px 10px 60px 0;
     width: 230px;
+}
 }
 
 
