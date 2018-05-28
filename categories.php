@@ -2,23 +2,7 @@
 include "includes/header.php";
 ?>
 <div class="wrapper hidden-lg hidden-md">
-      <div class="sidebar">
-        <div class="brand">A-Mail</div>
-        <div class="menu">
-          <ul>
-            <li><a href="individual_auction.php"><i class="glyph-icon flaticon-user"></i> Single Auction</a></li>
-            <li><a href="categories.php"><i class="glyph-icon flaticon-like"></i> Categories</a></li>
-            <li><a href="notifications.php"><i class="glyph-icon flaticon-like-1"></i>Notifications</a></li>
-            <li><a href="about.php"><i class="glyph-icon flaticon-vision"></i> About us</a></li>
-            <li><i class="glyph-icon flaticon-mail"></i> Contact us </li>
-            <li><a href="composeMessage.php"><i class="glyph-icon flaticon-info"></i> Compose Message</a></li>
-            <li><a href="composeMessage.php"><i class="glyph-icon flaticon-user"></i> Login</a></li>
-            <li><i class="glyph-icon flaticon-user"></i> Register</li>
-            <li><i class="glyph-icon flaticon-like-1"></i> Why buy juuce?</li>
-            <li><i class="glyph-icon flaticon-vision"></i> About us</li>
-          </ul>
-        </div>
-      </div>
+        <?php include 'includes/mobile-sidebar.php'; ?>
 
       <div class="content no-animation"  data-pos="0">
         <div>

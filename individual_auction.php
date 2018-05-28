@@ -4,44 +4,7 @@ include "includes/header.php";
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/auction.css">
 
-<div class="wrapper hidden-lg hidden-md">
-      <div class="sidebar">
-        <div class="brand">A-Mail</div>
-        <div class="menu">
-          <ul>
-            <li><a href="individual_auction.php"><i class="glyph-icon flaticon-user"></i> Single Auction</a></li>
-            <li><a href="categories.php"><i class="glyph-icon flaticon-like"></i> Categories</a></li>
-            <li><a href="notifications.php"><i class="glyph-icon flaticon-like-1"></i>Notifications</a></li>
-            <li><a href="about.php"><i class="glyph-icon flaticon-vision"></i> About us</a></li>
-            <li><i class="glyph-icon flaticon-mail"></i> Contact us </li>
-            <li><a href="composeMessage.php"><i class="glyph-icon flaticon-info"></i> Compose Message</a></li>
-            <li><a href="composeMessage.php"><i class="glyph-icon flaticon-user"></i> Login</a></li>
-            <li><i class="glyph-icon flaticon-user"></i> Register</li>
-            <li><i class="glyph-icon flaticon-like-1"></i> Why buy juuce?</li>
-            <li><i class="glyph-icon flaticon-vision"></i> About us</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="content no-animation"  data-pos="0">
-        <div>
-
-          <div id="openMenu">
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
-          <div id="shoppingIcon">
-            <span>4</span>
-            <i class="glyph-icon flaticon-cart"></i>
-          </div>
-          <div class="header">
-            <h3>AuctionMail</h3>
-            <small>Sell/buy It</small>
-          </div>
-          <div class="triangle"  ></div>
-            
-    <div class="col-md-12" style="padding: 0; margin-top: -100px; ">
+<div class="col-md-12" style="padding: 0;">
 
 <div class="page-title">
 <?php include 'includes/page-title.php'; ?>
@@ -65,7 +28,7 @@ include "includes/header.php";
   <div class="item_page_top_left col-sm-12 col-xs-12">
     <div class="item_page_images">
     <div class="big_image_box">
-    <div class="slider big_image_slider popupImagesPane" title="View larger image">
+    <div class=" big_image_slider popupImagesPane" title="View larger image">
         <img src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnx/https://img.bidorbuy.co.za/image/upload/v1523439174/user_images/385/493385/180411113244_1888%209.jpg" alt="1888 OFS Pattern Penny Proof Struck on Thick Blank!">
       </div>
       <div class="clearfix hidden-md hidden-lg"></div>
@@ -406,8 +369,8 @@ include "includes/header.php";
     </div>
     </div> 
   </div>
-  <div class="clearfix visible-sm-* visible-sx-*"></div>
-  <hr class="visible-sm-* visible-sx-*">
+  <div class="mobile-clearfix"></div>
+  <hr class="hidden-lg hidden-md">
 
   <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
@@ -449,8 +412,8 @@ include "includes/header.php";
     </div>
     </div> 
   </div>
-  <div class="clearfix visible-sm-* visible-sx-*"></div>
-  <hr class="visible-sm-* visible-sx-*">
+  <div class="mobile-clearfix"></div>
+  <hr class="hidden-md hidden-lg">
 
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
@@ -492,8 +455,8 @@ include "includes/header.php";
     </div>
     </div> 
   </div> 
-    <div class="clearfix visible-sm-* visible-sx-*"></div>
-<hr class="visible-sm-* visible-sx-*">
+    <div class="mobile-clearfix"></div>
+<hr class="hidden-lg hidden-md">
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
   
@@ -535,8 +498,8 @@ include "includes/header.php";
     </div>
     </div> 
   </div> 
-    <div class="clearfix visible-sm-* visible-sx-*"></div>
-  <hr class="visible-sm-* visible-sx-*">
+    <div class="mobile-clearfix"></div>
+  <hr class="hidden-lg hidden-md">
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
   <div class="griditemblock" style="min-height:315px;">
   
@@ -581,27 +544,10 @@ include "includes/header.php";
 </div>
 </div>
 <!-- /Related Products -->
- </div>
-        </div>
-      </div>
-      
-    </div>
-    <!-- /.wrapper -->
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="space-clear-10"></div>
 <?php
-// include "includes/footer.html";
+include "includes/footer.html";
 ?>
 
 </div>

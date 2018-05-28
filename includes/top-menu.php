@@ -6,7 +6,7 @@
     <div class="header-nav-left-section" style="margin-left: 20px;">
       <a class="helptitle" href="https://www.bidorbuy.co.za/buyerprotection" title="bidorbuy Buyer Protection Programme. Click here to see how you're covered."><span class="fa fa-lock"></span>Buyer Protection</a>
     </div>
-    <ul class="header-nav pull-right"><li class="header-nav-section"><a href="https://www.bidorbuy.co.za/" accesskey="1" title="bidorbuy online shopping"><span class="fa fa-home"></span>Home</a></li>
+    <ul class="header-nav pull-right"><li class="header-nav-section"><a href="index.php" accesskey="1" title="bidorbuy online shopping"><span class="fa fa-home"></span>Home</a></li>
     <li class="header-nav-section"><a data-hover="dropdown" data-toggle="dropdown"  href="https://www.bidorbuy.co.za/jsp/my/MyMain.jsp?Action=BUYER_VIEW" title="Buying on bidorbuy" rel="nofollow, noindex"><span class="fa fa-shopping-cart"></span>Buy</a>
     <ul class="dropdown-menu" style="left: 0;">
       <li><a href="https://www.bidorbuy.co.za/static/CategoryMap.html" title="Browse all our categories">Browse</a></li>

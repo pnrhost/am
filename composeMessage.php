@@ -2,7 +2,6 @@
 include "includes/header.php";
 ?>
 <link rel="stylesheet" type="text/css" href="css/index.css">
-
 <div class="content_wrapper">
   
     <div class="col-md-12">

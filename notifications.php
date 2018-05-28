@@ -4,12 +4,16 @@ include "includes/header.php";
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <link rel="stylesheet" type="text/css" href="css/auction.css">
 
+<div class="hidden-xs hidden-sm">
 <?php  include "includes/title.php"; ?>
+</div>
  
 <div class="content_wrapper">
+      
   <hr>
   <div class="col-sm-12 ">
 
+ <div class="text-center hidden-lg hidden-md"  style="height:auto;overflow:hidden; color:#ffffff;"> 
 
 
     <div class="alert alert-success notifications">

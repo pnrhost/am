@@ -1,16 +1,16 @@
 <?php
 include "includes/header.php";
 ?>
-<link rel="stylesheet" type="text/css" href="css/index.css">
+
 <div class="content_wrapper">
     <div class="col-md-12">
         <div class="alert alert-info " >
             <div style="text-align:center; overflow:hidden;">Create/Edit Auction</div>
         </div>
         <div class="row auctioncreate">
-            <div class="panel panel-default">
+            <div class="panel panel-default" style="border: 0">
                 <div class="panel-body">
-                    <form role="form" class="form-horizontal" method="post" action="/auction/sell/add/baby/">
+                    <form role="form" class="form-horizontal" method="post" action="#">
                         
                         <div class="form-group">
                             
@@ -138,8 +138,12 @@ include "includes/header.php";
                             </div>
                             
                         </div>
-                        <div class="form-group text-center">
+                        <div class="form-group">
+                            <div class="col-md-6">
+                            </div>
+                            <div class="col-md-6 text-right">
                             <button type="submit" class="btn btn-warning ">Auction it</button>
+                        </div>
                         </div>
                     </form>
                 </div>

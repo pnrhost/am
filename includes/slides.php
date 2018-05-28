@@ -1,4 +1,4 @@
- <div class="col-md-9 slides" style="padding-right: 0;">
+ <div class="col-md-9 slide" style="padding: 0;">
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">

@@ -1,14 +1,13 @@
 <?php
 include "includes/header.php";
 ?>
-<link rel="stylesheet" type="text/css" href="css/index.css">
 
-    <div class="content_wrapper " >
+<div class="content_wrapper" >
       
 <div class="col-md-12" >
             <!--BEGIN LAYOUT BLOCK 1--> 
 
-            <div style="height:auto; padding: 100px; background: url(https://img.bidorbuy.co.za/image/upload/user_images/site_images/170525103437_header_bg.png) 50%/852px 167px no-repeat, linear-gradient(90deg, #fb8c00 0%, #d81b60 100%); overflow:hidden; color:#ffffff"> <div style="margin:0 auto; text-align: center"> 
+            <div class="mobile-about-top-banner" style="height:auto; padding: 100px; background: url(https://img.bidorbuy.co.za/image/upload/user_images/site_images/170525103437_header_bg.png) 50%/852px 167px no-repeat, linear-gradient(90deg, #fb8c00 0%, #d81b60 100%); overflow:hidden; color:#ffffff"> <div style="margin:0 auto; text-align: center"> 
                 <img src="images/favicon-32x32.png" width="96" height="96" title="bidorbuy is South Africa's safe and simple online marketplace and auction site." alt="bidorbuy is South Africa's safe and simple online marketplace and auction site."> 
                 <h1 style="padding: 20px;">bidorbuy is South Africa's safe and simple online marketplace and auction site.
                 </h1> </div>
@@ -40,7 +39,7 @@ include "includes/header.php";
 
 <div class="col-md-12">
             <div class="col-md-offset-4">
-                <a class="fullWidth" href="UserRegistration.php" style="width:45%; margin: 0 auto; background: #336699; color: #ffffff; border-radius: 8px; height:auto; padding: 12px 16px; overflow: hidden; box-shadow: 0 0 32px rgba(0,0,0,0.2); float: left; margin: 16px -32px 0 0; text-align: center">Register now to start buying and selling</a>
+                <a class="fullWidth" href="UserRegistration.php" style="margin: 0 auto; background: #336699; color: #ffffff; border-radius: 8px; height:auto; padding: 12px 16px; overflow: hidden; box-shadow: 0 0 32px rgba(0,0,0,0.2); float: left; margin: 16px -32px 0 0; text-align: center">Register now to start buying and selling</a>
             </div>
 
              </div> 

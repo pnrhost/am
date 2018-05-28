@@ -63,6 +63,8 @@ margin-top: 7px;
           
         </div>
       </div>
+
+      <div class="space-clear-10 hidden-md hidden-lg"></div>
       <div class="col-md-6">
         <div style="background-color: #f3f6f9; border-radius: 5px; padding: 10px; text-align: center; font-size: 16px;">
           Already have an Account?
