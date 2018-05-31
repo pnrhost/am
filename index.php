@@ -242,7 +242,7 @@ Bid Now
         <img class="tradelist_item_thumbnail_big" src="http://placehold.it/112x112">
         </a>
     </div>
-    <div class="col-xs-10" style="padding: 0; width: 78%;">
+    <div class="col-xs-10">
       <div class="col2_row1 col-md-12" style="padding: 0;">
         <div class="tradelist_title" itemprop="name">
           <a href="individual_auction.php" title="">
@@ -277,7 +277,7 @@ Bid Now
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.bidorbuy.co.za/image/upload/user_images/405/3358405/170602233330_Har.png" alt="Buy Professional Electric Hair Straightener, Massaging Brush Combo. LCD Display Temperature Controls. Pi" itemprop="image">
         </a>
     </div>
-    <div class="col-xs-10" style="padding: 0; width: 78%;">
+    <div class="col-xs-10">
       <div class="col2_row1 col-md-12" style="padding: 0;">
         <div class="tradelist_title" itemprop="name">
           <a href="https://www.bidorbuy.co.za/item/334090513/Professional_Electric_Hair_Straightener_Massaging_Brush_Combo_LCD_Display_Temperature_Controls_Pi.html" title="Buy Professional Electric Hair Straightener, Massaging Brush Combo. LCD Display Temperature Controls. Pi">Professional Electric Hair Straightener, Massaging Brush Combo. LCD Display Temperature Controls. Pi</a>
@@ -309,7 +309,7 @@ Bid Now
         <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.bidorbuy.co.za/image/upload/user_images/405/3358405/170602233330_Har.png" alt="Buy Professional Electric Hair Straightener, Massaging Brush Combo. LCD Display Temperature Controls. Pi" itemprop="image">
         </a>
     </div>
-    <div class="col-xs-10" style="padding: 0; width: 78%;">
+    <div class="col-xs-10">
       <div class="col2_row1 col-md-12" style="padding: 0;">
         <div class="tradelist_title" itemprop="name">
           <a href="https://www.bidorbuy.co.za/item/334090513/Professional_Electric_Hair_Straightener_Massaging_Brush_Combo_LCD_Display_Temperature_Controls_Pi.html" title="Buy Professional Electric Hair Straightener, Massaging Brush Combo. LCD Display Temperature Controls. Pi">Professional Electric Hair Straightener, Massaging Brush Combo. LCD Display Temperature Controls. Pi</a>
