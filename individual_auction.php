@@ -330,13 +330,15 @@ include "includes/header.php";
 <h3>Similar items</h3> <div>
 <div class="clearline"></div>
 <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
-  <div class="griditemblock" style="min-height:315px;">
+  <div class="griditemblock similar-items" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
-        <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
+        <a style="text-align: center; display: block;" href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <img class="tradelist_item_thumbnail_big_auction" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
+
+    <div class="clearfix"></div>
 
     <div class="section2" style="min-height:235px; height:235px;">
     <div class="section2Inner">
@@ -373,13 +375,15 @@ include "includes/header.php";
   <hr class="hidden-lg hidden-md">
 
   <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
-  <div class="griditemblock" style="min-height:315px;">
+  <div class="griditemblock similar-items" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
-        <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
+        <a style="text-align: center; display: block;" href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <img class="tradelist_item_thumbnail_big_auction" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
+
+    <div class="clearfix"></div>
 
     <div class="section2" style="min-height:235px; height:235px;">
     <div class="section2Inner">
@@ -416,13 +420,15 @@ include "includes/header.php";
   <hr class="hidden-md hidden-lg">
 
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
-  <div class="griditemblock" style="min-height:315px;">
+  <div class="griditemblock similar-items" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
-        <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
+        <a style="text-align: center; display: block;" href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <img class="tradelist_item_thumbnail_big_auction" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
+
+    <div class="clearfix"></div>
 
     <div class="section2" style="min-height:235px; height:235px;">
     <div class="section2Inner">
@@ -458,19 +464,21 @@ include "includes/header.php";
     <div class="mobile-clearfix"></div>
 <hr class="hidden-lg hidden-md">
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
-  <div class="griditemblock" style="min-height:315px;">
+  <div class="griditemblock similar-items" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
-        <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
+        <a style="text-align: center; display: block;" href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <img class="tradelist_item_thumbnail_big_auction" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
+
+    <div class="clearfix"></div>
 
     <div class="section2" style="min-height:235px; height:235px;">
     <div class="section2Inner">
   
       <div class="tradelist_title" itemprop="name">
-        <a href="individual_auction.php">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
+        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
 
      <div class="product_attributes">
@@ -483,8 +491,7 @@ include "includes/header.php";
         <div class="amount"><meta itemprop="price" content="287.08"><meta itemprop="priceCurrency" content="ZAR"><span class="bigPriceText2">R287.</span><span class="smallPriceText2">08</span></div>
       </div>
       <div class="seller">
-         <span class="user-summary"><span class="alias">
-          <a href="https://www.bidorbuy.co.za/seller/643405/The_World_OnLine" title="Items The World OnLine is selling">The World OnLine</a></span><span class="user-verified inline-image bfa bfa-verified" title="Verified User"></span></span></div>      
+         <span class="user-summary"><span class="alias"><a href="https://www.bidorbuy.co.za/seller/643405/The_World_OnLine" title="Items The World OnLine is selling">The World OnLine</a></span><span class="user-verified inline-image bfa bfa-verified" title="Verified User"></span></span></div>      
       <div class="time">Closes 5 May 00:00</div>
       <div class="space-10"></div>
       <div class="actions">
@@ -496,18 +503,20 @@ include "includes/header.php";
       <div class="space-10"></div>
             
     </div>
-    </div> 
+    </div>  
   </div> 
     <div class="mobile-clearfix"></div>
   <hr class="hidden-lg hidden-md">
     <div class="tradelistgriditem" style="width:196px; height:315px;border-right:none;" itemscope="" itemtype="https://schema.org/Product">
-  <div class="griditemblock" style="min-height:315px;">
+  <div class="griditemblock similar-items" style="min-height:315px;">
   
     <div class="thumbnailbox_big">
-        <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
-        <img class="tradelist_item_thumbnail_big" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
+        <a style="text-align: center; display: block;" href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="url">
+        <img class="tradelist_item_thumbnail_big_auction" src="https://tbn.bidorbuy.co.za/image/fetch/dpr_1.0,f_auto,t_btbnl/https://img.staticbg.com/images/oaupload/banggood/images/FE/F0/d40043aa-5992-4619-8a7b-6dbdaab1ff9f.jpg" alt="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)" itemprop="image">
         </a>
     </div>
+
+    <div class="clearfix"></div>
 
     <div class="section2" style="min-height:235px; height:235px;">
     <div class="section2Inner">
@@ -515,9 +524,10 @@ include "includes/header.php";
       <div class="tradelist_title" itemprop="name">
         <a href="individual_auction.php" title="Buy SMAEL 1436 Military Style LED Digital Watch Display Time Date Sport Wristwatch (NO.: NO.2)">SMAEL 1436 Military Style Date Sport Wristwatch (NO.: NO.2)</a>
       </div>
-
+      <div class="clearfix"></div>
      <div class="product_attributes">
   Digital</div>
+  <div class="clearfix"></div>
 </div>
     </div>
 

@@ -248,14 +248,7 @@ h1, h2, h3, h4, h5, h6, ul, ol, dl {
     vertical-align: middle;
     text-align: center;
 }
-.bfa {
-    display: inline-block;
-    font-family: bidorbuyIcons;
-    text-rendering: auto;
-    color: rgba(0,0,0,0.5);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
+
 
 .quick_cart_header a {
     display: block;
@@ -303,22 +296,6 @@ h1, h2, h3, h4, h5, h6, ul, ol, dl {
 }
 
 
-
-.watchlist_header .bfa {
-    width: 25px;
-    margin-left: 10px;
-    font-size: 18px;
-    vertical-align: middle;
-}
-
-.bfa {
-    display: inline-block;
-    font-family: bidorbuyIcons;
-    text-rendering: auto;
-    color: rgba(0,0,0,0.5);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
 .header-navbar {
     width: 100%;
     height: 35px;
@@ -334,7 +311,6 @@ h1, h2, h3, h4, h5, h6, ul, ol, dl {
 }
 
 #navtop_signin_container {
-    width: 984px;
     margin: 0 auto;
     height: 35px;
     float: none;
@@ -460,1254 +436,6 @@ svg {
     padding-right: 8px;
 }
 
-global-307.css:1
-.navtopmenu li a {
-    color: #000;
-    outline: 0;
-    text-decoration: none;
-    font-weight: none;
-    display: block;
-    padding: 0 13px 0 13px;
-}
-
-#DIV_1 {
-    float: left;
-    height: 40px;
-    width: 984px;
-    perspective-origin: 492px 20px;
-    transform-origin: 492px 20px;
-    background: rgba(0, 0, 0, 0) linear-gradient(rgb(255, 188, 13) 0px, rgb(255, 155, 3) 100%) no-repeat scroll 0% 0% / auto padding-box border-box;
-    font: normal normal 400 normal 12px / normal Arial, "Lucida Grande", "Trebuchet MS", Verdana, Tahoma, sans-serif;
-    margin: 20px 0px 0px;
-}/*#DIV_1*/
-
-#UL_2 {
-    bottom: 0px;
-    height: 40px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    top: 0px;
-    width: 970px;
-    z-index: 7002;
-    perspective-origin: 495px 20px;
-    transform-origin: 495px 20px;
-    font: normal normal 400 normal 12px / normal Arial, "Lucida Grande", "Trebuchet MS", Verdana, Tahoma, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-    padding: 0px 0px 0px 20px;
-}/*#UL_2*/
-
-#LI_3 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 108.703px;
-    perspective-origin: 56.3438px 20px;
-    transform-origin: 56.3438px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_3*/
-
-#A_4 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 87.7031px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 54.3438px 20px;
-    transform-origin: 54.3438px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_4*/
-
-#I_5, #I_82, #I_96, #I_114, #I_132, #I_150, #I_176 {
-    color: rgb(153, 103, 10);
-    cursor: pointer;
-    display: inline-block;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(153, 103, 10);
-    width: 8px;
-    column-rule-color: rgb(153, 103, 10);
-    perspective-origin: 6.5px 7px;
-    transform-origin: 6.5px 7px;
-    caret-color: rgb(153, 103, 10);
-    border: 0px none rgb(153, 103, 10);
-    font: normal normal 400 normal 14px / 14px FontAwesome;
-    list-style: none outside none;
-    outline: rgb(153, 103, 10) none 0px;
-    padding: 0px 0px 0px 5px;
-}/*#I_5, #I_82, #I_96, #I_114, #I_132, #I_150, #I_176*/
-
-#I_5:before, #I_82:before, #I_96:before, #I_114:before, #I_132:before, #I_150:before, #I_176:before {
-    color: rgb(153, 103, 10);
-    content: '""';
-    cursor: pointer;
-    text-align: left;
-    text-decoration: none solid rgb(153, 103, 10);
-    column-rule-color: rgb(153, 103, 10);
-    perspective-origin: 0px 0px;
-    transform-origin: 0px 0px;
-    caret-color: rgb(153, 103, 10);
-    border: 0px none rgb(153, 103, 10);
-    font: normal normal 400 normal 14px / 14px FontAwesome;
-    list-style: none outside none;
-    outline: rgb(153, 103, 10) none 0px;
-}/*#I_5:before, #I_82:before, #I_96:before, #I_114:before, #I_132:before, #I_150:before, #I_176:before*/
-
-#DIV_6 {
-    bottom: -289px;
-    box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 5px 0px;
-    height: 264px;
-    left: -1px;
-    opacity: 0;
-    position: absolute;
-    right: 199px;
-    text-align: left;
-    top: 35px;
-    visibility: hidden;
-    width: 770px;
-    perspective-origin: 396px 143px;
-    transform-origin: 396px 143px;
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    border: 1px solid rgb(170, 170, 170);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 4px 0px;
-    padding: 10px;
-}/*#DIV_6*/
-
-#DIV_7 {
-    bottom: 0px;
-    clear: left;
-    float: left;
-    height: 264px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 770px;
-    perspective-origin: 385px 132px;
-    transform-origin: 385px 132px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#DIV_7*/
-
-#DIV_8 {
-    bottom: 0px;
-    clear: left;
-    float: left;
-    height: 264px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 245px;
-    perspective-origin: 122.5px 132px;
-    transform-origin: 122.5px 132px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#DIV_8*/
-
-#UL_9, #UL_33, #UL_57 {
-    text-align: left;
-    visibility: hidden;
-    width: 245px;
-    perspective-origin: 122.5px 0px;
-    transform-origin: 122.5px 0px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 0px 12px;
-    padding: 0px;
-}/*#UL_9, #UL_33, #UL_57*/
-
-#LI_10, #LI_12, #LI_14, #LI_16, #LI_18, #LI_20, #LI_22, #LI_24, #LI_26, #LI_28, #LI_30, #LI_34, #LI_36, #LI_38, #LI_40, #LI_42, #LI_44, #LI_46, #LI_48, #LI_50, #LI_52, #LI_54, #LI_58, #LI_60, #LI_62, #LI_64, #LI_66, #LI_68, #LI_70, #LI_72, #LI_74, #LI_76, #LI_78 {
-    bottom: 0px;
-    float: left;
-    height: 24px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 0px;
-    visibility: hidden;
-    width: 245px;
-    perspective-origin: 127.5px 12px;
-    transform-origin: 127.5px 12px;
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    padding: 0px 5px;
-}/*#LI_10, #LI_12, #LI_14, #LI_16, #LI_18, #LI_20, #LI_22, #LI_24, #LI_26, #LI_28, #LI_30, #LI_34, #LI_36, #LI_38, #LI_40, #LI_42, #LI_44, #LI_46, #LI_48, #LI_50, #LI_52, #LI_54, #LI_58, #LI_60, #LI_62, #LI_64, #LI_66, #LI_68, #LI_70, #LI_72, #LI_74, #LI_76, #LI_78*/
-
-#A_11, #A_13, #A_17, #A_21, #A_25, #A_29, #A_35, #A_39, #A_43, #A_47, #A_51, #A_55, #A_59, #A_63, #A_67, #A_71, #A_75, #A_79 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 245px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 122.5px 12px;
-    transform-origin: 122.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_11, #A_13, #A_17, #A_21, #A_25, #A_29, #A_35, #A_39, #A_43, #A_47, #A_51, #A_55, #A_59, #A_63, #A_67, #A_71, #A_75, #A_79*/
-
-#A_15, #A_19, #A_27, #A_37, #A_45, #A_53, #A_61, #A_69, #A_77 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 245px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 122.5px 12px;
-    transform-origin: 122.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_15, #A_19, #A_27, #A_37, #A_45, #A_53, #A_61, #A_69, #A_77*/
-
-#A_23, #A_31, #A_41, #A_65 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 245px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 122.5px 12px;
-    transform-origin: 122.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_23, #A_31, #A_41, #A_65*/
-
-#DIV_32, #DIV_56 {
-    bottom: 0px;
-    float: left;
-    height: 264px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 245px;
-    perspective-origin: 122.5px 132px;
-    transform-origin: 122.5px 132px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 0px 0px 10px;
-}/*#DIV_32, #DIV_56*/
-
-#A_49, #A_73 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 245px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 122.5px 12px;
-    transform-origin: 122.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_49, #A_73*/
-
-#LI_80 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 78.7031px;
-    perspective-origin: 41.3438px 20px;
-    transform-origin: 41.3438px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_80*/
-
-#A_81 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 57.7031px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 39.3438px 20px;
-    transform-origin: 39.3438px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_81*/
-
-#DIV_83, #DIV_97, #DIV_115, #DIV_133, #DIV_151 {
-    bottom: -225px;
-    box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 5px 0px;
-    height: 200px;
-    left: -1px;
-    opacity: 0;
-    position: absolute;
-    right: 199px;
-    text-align: left;
-    top: 35px;
-    visibility: hidden;
-    width: 770px;
-    perspective-origin: 396px 111px;
-    transform-origin: 396px 111px;
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    border: 1px solid rgb(170, 170, 170);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 4px 0px;
-    padding: 10px;
-}/*#DIV_83, #DIV_97, #DIV_115, #DIV_133, #DIV_151*/
-
-#DIV_84, #DIV_98, #DIV_116, #DIV_134, #DIV_152 {
-    bottom: 0px;
-    clear: left;
-    float: left;
-    height: 200px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 770px;
-    perspective-origin: 385px 100px;
-    transform-origin: 385px 100px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#DIV_84, #DIV_98, #DIV_116, #DIV_134, #DIV_152*/
-
-#DIV_85, #DIV_99, #DIV_117, #DIV_135, #DIV_153 {
-    bottom: 0px;
-    clear: left;
-    float: left;
-    height: 200px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 225px;
-    perspective-origin: 112.5px 100px;
-    transform-origin: 112.5px 100px;
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 13px 0px 0px;
-}/*#DIV_85, #DIV_99, #DIV_117, #DIV_135, #DIV_153*/
-
-#A_86, #A_89, #A_100, #A_103, #A_118, #A_121, #A_136, #A_139, #A_154, #A_157 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 0px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    visibility: hidden;
-    width: 225px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 112.5px 0px;
-    transform-origin: 112.5px 0px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_86, #A_89, #A_100, #A_103, #A_118, #A_121, #A_136, #A_139, #A_154, #A_157*/
-
-#IMG_87, #IMG_90, #IMG_101, #IMG_104, #IMG_119, #IMG_122, #IMG_137, #IMG_140, #IMG_155, #IMG_158 {
-    bottom: 0px;
-    cursor: pointer;
-    display: block;
-    height: 200px;
-    left: 0px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 225px;
-    perspective-origin: 112.5px 100px;
-    transform-origin: 112.5px 100px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#IMG_87, #IMG_90, #IMG_101, #IMG_104, #IMG_119, #IMG_122, #IMG_137, #IMG_140, #IMG_155, #IMG_158*/
-
-#DIV_88, #DIV_102, #DIV_120, #DIV_138, #DIV_156 {
-    bottom: 0px;
-    float: left;
-    height: 200px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 225px;
-    perspective-origin: 112.5px 100px;
-    transform-origin: 112.5px 100px;
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 13px 0px 0px;
-}/*#DIV_88, #DIV_102, #DIV_120, #DIV_138, #DIV_156*/
-
-#DIV_91, #DIV_105, #DIV_123, #DIV_141, #DIV_159 {
-    bottom: 0px;
-    float: left;
-    height: 200px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 294px;
-    perspective-origin: 147px 100px;
-    transform-origin: 147px 100px;
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#DIV_91, #DIV_105, #DIV_123, #DIV_141, #DIV_159*/
-
-#A_92 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 0px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    visibility: hidden;
-    width: 294px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 147px 0px;
-    transform-origin: 147px 0px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_92*/
-
-#IMG_93 {
-    bottom: 0px;
-    cursor: pointer;
-    display: block;
-    height: 200px;
-    left: 0px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 294px;
-    perspective-origin: 147px 100px;
-    transform-origin: 147px 100px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#IMG_93*/
-
-#LI_94 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 66.9062px;
-    perspective-origin: 35.4531px 20px;
-    transform-origin: 35.4531px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_94*/
-
-#A_95 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 45.9062px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 33.4531px 20px;
-    transform-origin: 33.4531px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_95*/
-
-#P_106 {
-    bottom: 170px;
-    color: rgb(32, 125, 179);
-    height: 30px;
-    left: 0px;
-    position: absolute;
-    right: 55.875px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 0px;
-    visibility: hidden;
-    width: 238.125px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 119.062px 15px;
-    transform-origin: 119.062px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    margin: 0px;
-    outline: rgb(32, 125, 179) none 0px;
-    overflow: hidden;
-}/*#P_106*/
-
-#A_107 {
-    color: rgb(32, 125, 179);
-    display: block;
-    height: 30px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 238.125px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 119.062px 15px;
-    transform-origin: 119.062px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    outline: rgb(32, 125, 179) none 0px;
-}/*#A_107*/
-
-#P_108, #P_126, #P_144, #P_162 {
-    bottom: 30px;
-    height: 130px;
-    left: 0px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 40px;
-    visibility: hidden;
-    width: 294px;
-    perspective-origin: 147px 65px;
-    transform-origin: 147px 65px;
-    font: normal normal 400 normal 13px / 18px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-}/*#P_108, #P_126, #P_144, #P_162*/
-
-#P_109 {
-    bottom: 10px;
-    height: 12px;
-    left: 208.688px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 178px;
-    visibility: hidden;
-    width: 85.3125px;
-    perspective-origin: 42.6562px 6px;
-    transform-origin: 42.6562px 6px;
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-}/*#P_109*/
-
-#A_110 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 85.3125px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 42.6562px 7px;
-    transform-origin: 42.6562px 7px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_110*/
-
-#I_111, #I_129, #I_147, #I_167 {
-    background-position: -264px -72px;
-    color: rgb(153, 103, 10);
-    cursor: pointer;
-    display: inline-block;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(153, 103, 10);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    vertical-align: text-top;
-    visibility: hidden;
-    width: 14px;
-    column-rule-color: rgb(153, 103, 10);
-    perspective-origin: 9.5px 7px;
-    transform-origin: 9.5px 7px;
-    caret-color: rgb(153, 103, 10);
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/html/css/icons/glyphicons-halflings.png") no-repeat scroll -264px -72px / auto padding-box border-box;
-    border: 0px none rgb(153, 103, 10);
-    font: italic normal 400 normal 14px / 14px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px 2px 0px 0px;
-    outline: rgb(153, 103, 10) none 0px;
-    padding: 0px 0px 0px 5px;
-}/*#I_111, #I_129, #I_147, #I_167*/
-
-#LI_112 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 76.7031px;
-    perspective-origin: 40.3438px 20px;
-    transform-origin: 40.3438px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_112*/
-
-#A_113 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 55.7031px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 38.3438px 20px;
-    transform-origin: 38.3438px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_113*/
-
-#P_124 {
-    bottom: 170px;
-    color: rgb(32, 125, 179);
-    height: 30px;
-    left: 0px;
-    position: absolute;
-    right: 122.109px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 0px;
-    visibility: hidden;
-    width: 171.891px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 85.9375px 15px;
-    transform-origin: 85.9375px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    margin: 0px;
-    outline: rgb(32, 125, 179) none 0px;
-    overflow: hidden;
-}/*#P_124*/
-
-#A_125 {
-    color: rgb(32, 125, 179);
-    display: block;
-    height: 30px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 171.891px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 85.9375px 15px;
-    transform-origin: 85.9375px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    outline: rgb(32, 125, 179) none 0px;
-}/*#A_125*/
-
-#P_127 {
-    bottom: 10px;
-    height: 12px;
-    left: 175.672px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 178px;
-    visibility: hidden;
-    width: 118.328px;
-    perspective-origin: 59.1562px 6px;
-    transform-origin: 59.1562px 6px;
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-}/*#P_127*/
-
-#A_128 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 118.328px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 59.1562px 7px;
-    transform-origin: 59.1562px 7px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_128*/
-
-#LI_130 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 78.0312px;
-    perspective-origin: 41.0156px 20px;
-    transform-origin: 41.0156px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_130*/
-
-#A_131 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 57.0312px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 39.0156px 20px;
-    transform-origin: 39.0156px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_131*/
-
-#P_142 {
-    bottom: 170px;
-    color: rgb(32, 125, 179);
-    height: 30px;
-    left: 0px;
-    position: absolute;
-    right: 96.4219px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 0px;
-    visibility: hidden;
-    width: 197.578px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 98.7812px 15px;
-    transform-origin: 98.7812px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    margin: 0px;
-    outline: rgb(32, 125, 179) none 0px;
-    overflow: hidden;
-}/*#P_142*/
-
-#A_143 {
-    color: rgb(32, 125, 179);
-    display: block;
-    height: 30px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 197.578px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 98.7812px 15px;
-    transform-origin: 98.7812px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    outline: rgb(32, 125, 179) none 0px;
-}/*#A_143*/
-
-#P_145 {
-    bottom: 10px;
-    height: 12px;
-    left: 95.7188px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 178px;
-    visibility: hidden;
-    width: 198.281px;
-    perspective-origin: 99.1406px 6px;
-    transform-origin: 99.1406px 6px;
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-}/*#P_145*/
-
-#A_146 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 198.281px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 99.1406px 7px;
-    transform-origin: 99.1406px 7px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_146*/
-
-#LI_148 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 67.3594px;
-    perspective-origin: 35.6719px 20px;
-    transform-origin: 35.6719px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_148*/
-
-#A_149 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 46.3594px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 33.6719px 20px;
-    transform-origin: 33.6719px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_149*/
-
-#P_160 {
-    bottom: 170px;
-    color: rgb(32, 125, 179);
-    height: 30px;
-    left: 0px;
-    position: absolute;
-    right: 10.6875px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 0px;
-    visibility: hidden;
-    width: 283.312px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 141.656px 15px;
-    transform-origin: 141.656px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    margin: 0px;
-    outline: rgb(32, 125, 179) none 0px;
-    overflow: hidden;
-}/*#P_160*/
-
-#A_161 {
-    color: rgb(32, 125, 179);
-    display: block;
-    height: 30px;
-    text-align: left;
-    text-decoration: none solid rgb(32, 125, 179);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 283.312px;
-    column-rule-color: rgb(32, 125, 179);
-    perspective-origin: 141.656px 15px;
-    transform-origin: 141.656px 15px;
-    caret-color: rgb(32, 125, 179);
-    border: 0px none rgb(32, 125, 179);
-    font: normal normal 400 normal 24px / 30px Georgia, serif;
-    list-style: none outside none;
-    outline: rgb(32, 125, 179) none 0px;
-}/*#A_161*/
-
-#BR_163, #BR_164 {
-    text-align: left;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    font: normal normal 400 normal 13px / 18px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-}/*#BR_163, #BR_164*/
-
-#P_165 {
-    bottom: 10px;
-    height: 12px;
-    left: 68.4844px;
-    position: absolute;
-    right: 0px;
-    text-align: left;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 178px;
-    visibility: hidden;
-    width: 225.516px;
-    perspective-origin: 112.75px 6px;
-    transform-origin: 112.75px 6px;
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-}/*#P_165*/
-
-#A_166 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 14px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 225.516px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 112.75px 7px;
-    transform-origin: 112.75px 7px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 13px / 12px Helvetica, Arial, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-}/*#A_166*/
-
-#LI_168 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 117.828px;
-    perspective-origin: 60.9062px 20px;
-    transform-origin: 60.9062px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_168*/
-
-#A_169 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 91.8281px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 58.9062px 20px;
-    transform-origin: 58.9062px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 13px;
-}/*#A_169*/
-
-#LI_170 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 125.172px;
-    perspective-origin: 64.5781px 20px;
-    transform-origin: 64.5781px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_170*/
-
-#A_171 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 99.1719px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 62.5781px 20px;
-    transform-origin: 62.5781px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 13px;
-}/*#A_171*/
-
-#LI_172 {
-    background-position: 100% -154px;
-    float: left;
-    height: 40px;
-    width: 60.6875px;
-    perspective-origin: 32.3438px 20px;
-    transform-origin: 32.3438px 20px;
-    background: rgba(0, 0, 0, 0) url("https://www.bidorbuy.co.za/images/ui/bobe.sprites_menu_d2bde88ca6eb65d9c1f03043020ce92f.png") no-repeat scroll 100% -154px / auto padding-box border-box;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 20px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_172*/
-
-#A_173 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 34.6875px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 30.3438px 20px;
-    transform-origin: 30.3438px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 13px;
-}/*#A_173*/
-
-#LI_174 {
-    float: right;
-    height: 40px;
-    right: 5px;
-    width: 94.7031px;
-    perspective-origin: 49.3438px 20px;
-    transform-origin: 49.3438px 20px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px 5px 0px -20px;
-    padding: 0px 2px;
-}/*#LI_174*/
-
-#A_175 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 40px;
-    text-align: left;
-    text-decoration: none solid rgb(0, 0, 0);
-    width: 73.7031px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 47.3438px 20px;
-    transform-origin: 47.3438px 20px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 8px 0px 13px;
-}/*#A_175*/
-
-#DIV_177 {
-    bottom: -313px;
-    box-shadow: rgba(0, 0, 0, 0.5) 3px 3px 5px 0px;
-    height: 288px;
-    left: -1px;
-    opacity: 0;
-    position: absolute;
-    right: 819px;
-    text-align: left;
-    top: 35px;
-    visibility: hidden;
-    width: 145px;
-    perspective-origin: 83.5px 155px;
-    transform-origin: 83.5px 155px;
-    background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
-    border: 1px solid rgb(170, 170, 170);
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 4px 5px 4px 0px;
-    padding: 10px;
-}/*#DIV_177*/
-
-#DIV_178 {
-    bottom: 0px;
-    clear: left;
-    float: left;
-    height: 288px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: left;
-    top: 0px;
-    visibility: hidden;
-    width: 145px;
-    perspective-origin: 72.5px 144px;
-    transform-origin: 72.5px 144px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-}/*#DIV_178*/
-
-#UL_179 {
-    text-align: left;
-    visibility: hidden;
-    width: 145px;
-    perspective-origin: 72.5px 0px;
-    transform-origin: 72.5px 0px;
-    font: normal normal 400 normal 12px / 40px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    margin: 0px;
-    padding: 0px;
-}/*#UL_179*/
-
-#LI_180, #LI_182, #LI_184, #LI_186, #LI_188, #LI_190, #LI_192, #LI_194, #LI_196, #LI_198, #LI_200, #LI_202 {
-    bottom: 0px;
-    float: left;
-    height: 24px;
-    left: 0px;
-    position: relative;
-    right: 0px;
-    text-align: right;
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    top: 0px;
-    visibility: hidden;
-    width: 135px;
-    perspective-origin: 72.5px 12px;
-    transform-origin: 72.5px 12px;
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    padding: 0px 5px;
-}/*#LI_180, #LI_182, #LI_184, #LI_186, #LI_188, #LI_190, #LI_192, #LI_194, #LI_196, #LI_198, #LI_200, #LI_202*/
-
-#A_181, #A_183, #A_187, #A_191, #A_195, #A_199, #A_203 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: right;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 109px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 67.5px 12px;
-    transform-origin: 67.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 13px;
-}/*#A_181, #A_183, #A_187, #A_191, #A_195, #A_199, #A_203*/
-
-#A_185, #A_189, #A_197 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: right;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 109px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 67.5px 12px;
-    transform-origin: 67.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 13px;
-}/*#A_185, #A_189, #A_197*/
-
-#A_193, #A_201 {
-    color: rgb(0, 0, 0);
-    display: block;
-    height: 24px;
-    text-align: right;
-    text-decoration: none solid rgb(0, 0, 0);
-    text-shadow: rgb(255, 255, 255) 1px 1px 1px;
-    visibility: hidden;
-    width: 109px;
-    column-rule-color: rgb(0, 0, 0);
-    perspective-origin: 67.5px 12px;
-    transform-origin: 67.5px 12px;
-    caret-color: rgb(0, 0, 0);
-    border: 0px none rgb(0, 0, 0);
-    font: normal normal 400 normal 12px / 24px Arial, Helvetica, sans-serif;
-    list-style: none outside none;
-    outline: rgb(0, 0, 0) none 0px;
-    padding: 0px 13px;
-}/*#A_193, #A_201*/
 
 .homepage_content .promostrip {
     float: left;
@@ -1975,14 +703,6 @@ padding: 0;
     text-decoration: none !important;
 }
 
-.bfa {
-    display: inline-block;
-    font-family: bidorbuyIcons;
-    text-rendering: auto;
-    color: rgba(0,0,0,0.5);
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
 
 
 
@@ -2789,10 +1509,11 @@ cursor: pointer;
     border: 2px #f7f7f7 solid;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
     margin-top: 5px;
     padding: 0;
     position: relative;
-    height: 120px;
+    /*height: 120px;*/
     padding: 0 !important;
     float: left;
 }
@@ -2811,13 +1532,27 @@ cursor: pointer;
     z-index: 99;
 }
 
+.similar-items {
+    border: 1px solid #eee;
+}
+
+.similar-items .thumbnailbox_big {
+    border: none !important;
+}
+
 .tradelist_item_thumbnail_big {
     width: 100%;
     height: auto;
     padding: 5px;
     border: 1px #f7f7f7 solid;
     margin-top: 5px;
-    /*margin-left: -10px;*/
+}
+
+.tradelist_item_thumbnail_big_action {
+    height: auto;
+    padding: 5px;
+    border: 1px #f7f7f7 solid;
+    margin-top: 5px;
 }
 
 .tradelistgriditem .section2Inner {
@@ -3426,29 +2161,68 @@ background-color: ffffff;
 
 
 
-.mobile-app-icon-bar {
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-justify-content: space-around;
-      -ms-flex-pack: distribute;
-          justify-content: space-around;
-  background: #fefefe;
+/*header*/
+
+    #myNavbar {
+        margin-bottom: 10px;
+        border-right: none;
+    }
+
+
+  
+   
+
+    #content
+    {
+        margin-right: 2.5%;
+        margin-left:5%;
+    }
+    .top
+    {
+          border-right: solid lightgrey 1px;
+          height: 34px;
+
+    }
+
+     .collapse .dropdown
+    {
+          border-right: 1px solid orange;
+          height: 40px;
+    }
+
+    li a 
+    {
+        font-size: smaller;
+    }
+
+    .jumbotron {
+height: 0px;
+width: 65%;
+margin : 0 0 0 0;
+padding-top: 10px;
 }
 
-.mobile-app-icon-bar button {
-  padding: 1.25rem;
-  cursor: pointer;
+
+
+.megaMenu span
+{
+margin-left: 0px;
 }
 
-.mobile-app-icon-bar button svg,
-.mobile-app-icon-bar button i,
-.mobile-app-icon-bar button img {
-  font-size: 2rem;
-  max-height: 2rem;
-  max-width: 2rem;
+.navbar
+{
+    min-height: 35px;
+}
+
+.upper li  a
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.category li a 
+{
+    padding-top: 4px;
+    padding-bottom: 4px;
 }
 

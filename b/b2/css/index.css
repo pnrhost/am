@@ -1,0 +1,89 @@
+
+    /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+    .row.content {height: 1500px}
+    
+    /* Set gray background color and 100% height */
+    .sidenav {
+      background-color: #f1f1f1;
+      height: 100%;
+    }
+    
+    /* On small screens, set height to 'auto' for sidenav and grid */
+    @media screen and (max-width: 767px) {
+      .sidenav {
+        display: none;
+      }
+      .row.content {height: auto;} 
+    }
+
+    .slides
+    {
+    /*margin-right: 20px;*/
+    }
+    .sidenav li a,.featured_cars h5  a
+    {
+      color : black;
+    }
+
+    .sidenav li a:hover,.featured_cars h5  a:hover,.featured_cars h6  a:hover
+    {
+color: orange;
+    }
+
+
+  .featured_cars h5,.border,.recommended
+  {
+    border: 1px solid #dedddf;
+  }
+
+  .featured_cars h5
+  {
+    background-color: #f3f6f9;height: 40px;
+  }
+
+  .featured_cars
+  {
+     /*margin-left: 10px;*/
+  }
+
+.featured_cars p
+  {
+         padding-left: 0px;
+
+  }
+
+  .products .col-lg-3
+  {
+border: 1px solid  #dedddf;
+padding-left: 0px;
+
+  }
+
+
+.border input,.border label,.auctioncreate input,.auctioncreate label
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.pborder input,.border input,.auctioncreate input,.auctioncreate textarea 
+{ -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; }
+
+
+.featured_cars img
+{
+  padding: 10px 10px 10px 10px;
+}
+
+.featured_cars p
+{
+  padding-top: 5px;
+
+}
+
+.pborder
+{
+  border-right: 1px solid #dedddf;
+ border-left: 1px solid #dedddf;
+ height: 120px;
+}

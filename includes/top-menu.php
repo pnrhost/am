@@ -1,13 +1,35 @@
-<div class="header-navbar hidden-xs">
+<div class="header-navbar hidden-xs hidden-sm">
+  <div class="content_wrapper">
+    <!-- <div class="mobile-nav hidden-md hidden-lg">
+      <nav>
+  <ul>
+    <li><a href="home.html">Sell</a></li>
+    <li><a href="about.html">Buy</a></li>
+    <li><a href="services.html">Account</a></li>
+    <li><a href="products.html">Products</a></li>
+  </ul>
+</nav>
+
+    </div> -->
   <div id="navtop_signin_container">
-    <div class="header-nav-left-section">
-      <a href="https://support.bidorbuy.co.za/" class="helptitle" title="Need help? Call us or visit our support section"><span class="fa fa-phone"></span>087 350 0099</a>
+    <div class="header-nav-left-section hidden-xs hidden-sm">
+      <a href="#" class="helptitle" title="Need help? Call us or visit our support section"><span class="fa fa-phone"></span>087 350 0099</a>
     </div>
-    <div class="header-nav-left-section" style="margin-left: 20px;">
-      <a class="helptitle" href="https://www.bidorbuy.co.za/buyerprotection" title="bidorbuy Buyer Protection Programme. Click here to see how you're covered."><span class="fa fa-lock"></span>Buyer Protection</a>
+    <div class="header-nav-left-section hidden-xs hidden-sm" style="margin-left: 20px;">
+      <a class="helptitle" href="#" title="bidorbuy Buyer Protection Programme. Click here to see how you're covered."><span class="fa fa-lock"></span>Buyer Protection</a>
     </div>
-    <ul class="header-nav pull-right"><li class="header-nav-section"><a href="index.php" accesskey="1" title="bidorbuy online shopping"><span class="fa fa-home"></span>Home</a></li>
-    <li class="header-nav-section"><a data-hover="dropdown" data-toggle="dropdown"  href="https://www.bidorbuy.co.za/jsp/my/MyMain.jsp?Action=BUYER_VIEW" title="Buying on bidorbuy" rel="nofollow, noindex"><span class="fa fa-shopping-cart"></span>Buy</a>
+    <ul class="header-nav pull-right ">
+      <li class="header-nav-section hidden-xs hidden-sm">
+        <a href="index.php" accesskey="1" title="bidorbuy online shopping">
+          <span class="fa fa-home"></span>
+          Home
+        </a>
+      </li>
+    <li class="header-nav-section">
+      <a data-hover="dropdown" data-toggle="dropdown"  href="#" title="Buying on bidorbuy" rel="nofollow, noindex">
+        <span class="fa fa-shopping-cart"></span>
+      Buy
+      </a>
     <ul class="dropdown-menu" style="left: 0;">
       <li><a href="https://www.bidorbuy.co.za/static/CategoryMap.html" title="Browse all our categories">Browse</a></li>
       <li><a href="https://www.bidorbuy.co.za/jsp/cart/Cart.jsp" title="View your Shopping Cart" rel="nofollow, noindex">Shopping Cart</a></li>
@@ -25,7 +47,7 @@
     <li><a href="https://www.bidorbuy.co.za/help/881/Help_Selling" title="Help &amp; guides for selling on bidorbuy" rel="nofollow, noindex">Selling Help</a></li>
   </ul>
 </li>
-<li class="header-nav-section">
+<li class="header-nav-section hidden-xs hidden-sm">
   <a data-hover="dropdown" data-toggle="dropdown" class="dropdown" href="https://www.bidorbuy.co.za/jsp/my/MyMain.jsp" title="My bidorbuy" rel="nofollow, noindex"><span class="fa fa-mobile"></span>My bidorbuy</a>
   <ul class="dropdown-menu" style="left: 0;">
     <li><a href="https://www.bidorbuy.co.za/jsp/buyer/BuyerItemsBoughtOrWon.jsp?mode=Recent" title="View items you have recently bought" rel="nofollow, noindex">My Orders</a></li>
@@ -33,7 +55,7 @@
     <li><a href="https://www.bidorbuy.co.za/jsp/my/MyMain.jsp?Action=SELLER_VIEW" title="My sales on bidorbuy" rel="nofollow, noindex">Selling</a></li>
   </ul>
 </li>
-<li class="header-nav-section">
+<li class="header-nav-section hidden-xs hidden-sm">
   <a data-hover="dropdown" data-toggle="dropdown" class="dropdown" href="https://www.bidorbuy.co.za/mobi" title="bidorbuy mobile - SMS &amp; mobile apps for iPhone, iPad &amp; Android "><span class="fa fa-mobile"></span>Mobile</a>
   <ul class="dropdown-menu" style="left: 0;">
     <li><a href="https://www.bidorbuy.co.za/jsp/sms/SMSMonitor.jsp" title="Your bidorbuy SMS Watchlist" rel="nofollow, noindex">SMS Watchlist</a></li>
@@ -50,7 +72,7 @@
     <li><a href="https://www.bidorbuy.co.za/jsp/newsletters/NewsletterSignUp.jsp" title="Newsletter Subscriptions" target="new" rel="nofollow, noindex">Newsletters</a></li>
   </ul>
 </li>
-<li class="header-nav-section">
+<li class="header-nav-section hidden-xs hidden-sm">
   <a data-hover="dropdown" data-toggle="dropdown" class="dropdown" href="https://support.bidorbuy.co.za/" accesskey="0" title="Get help and support on bidorbuy"><span class="fa fa-question-circle"></span>Help</a>
   <ul class="dropdown-menu" style="left: 0;">
     <li><a href="https://support.bidorbuy.co.za/Knowledgebase/List/Index/3/manage-your-account" rel="nofollow, noindex" title="Help with your bidorbuy account">Your Account</a></li>
@@ -64,9 +86,10 @@
 <li class="header-nav-section SignedInMenuItem" style="display:none;">
   <a href="https://www.bidorbuy.co.za/jsp/login/UserLogout.jsp" accesskey="o" title="Log out from bidorbuy">Sign Out</a>
 </li>
-<li class="header-nav-section register SignedOutMenuItem" style="display: block;">
+<li class="header-nav-section register SignedOutMenuItem hidden-xs hidden-sm" style="display: block;">
   <a href="https://www.bidorbuy.co.za/jsp/registration/UserRegistration.jsp" accesskey="2" title="Join bidorbuy">Register</a>
 </li>
 </ul>
+</div>
 </div>
 </div>

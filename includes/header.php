@@ -18,7 +18,7 @@ include "includes/top-menu.php";
         <div class="col-md-6 hidden-xs">
           <div id="search_bar" >
             <div  class="col-md-8" style="padding: 0 8px 0 8px;">
-              <form id="HeaderTradeSearchForm" method="post" action="https://www.bidorbuy.co.za/jsp/tradesearch/TradeSearch.jsp">
+              <form id="HeaderTradeSearchForm" method="post" action="#">
                 <div id="headerTradeSearchInputWrapper">
                   <input type="hidden" name="CategoryId" value="0">
                   <span class="twitter-typeahead" style="position: relative; display: inline-block; direction: ltr;">
@@ -76,11 +76,54 @@ include "includes/top-menu.php";
                 <div class="clearfix"></div>
                 <!-- category menu -->
                 <div class="space-clear-10 hidden-xs hidden-sm"></div>
+                <!-- Top Mobile nav -->
+                <nav class="navbar navbar-default hidden-lg hidden-md"><div class="btn-group btn-group-justified" role="group" aria-label="...">
+  <div class="btn-group" role="group">
+   <button style="border: 0;
+    border-right: 1px solid;
+    background: #f1f4f7;
+    border-radius: 0;" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-shopping-cart"></i>
+    Buy <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="#">Browse</a></li>
+    <li><a href="#">Category</a></li>
+    <li><a href="#">Closed Auctions</a></li>
+    <li><a href="#">My auction bids</a></li>
+    <li><a href="#">My auction wins</a></li>
+    <li><a href="#">My buynow purchases</a></li>
+  </ul>
+  </div>
+  <div class="btn-group" role="group">
+   <button style="border: 0;
+    border-right: 1px solid;
+    background: #f1f4f7;
+    border-radius: 0;" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-dollar-sign"></i>
+    Sell <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu">
+    <li><a href="#">Create new auction</a></li>
+    <li><a href="#">Create buynow sale</a></li>
+    <li><a href="#">My sales</a></li>
+  </ul>
+  </div>
+  <div class="btn-group" role="group">
+   <button style="border: 0;
+    background: #f1f4f7;
+    border-radius: 0;" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i>
+    My account <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu pull-right">
+    <li><a href="#">Logout</a></li>
+  </ul>
+  </div>
+</div>
+</nav>
                 <nav id="myNavbar" class="navbar navbar-default" role="navigation" >
                   <!-- Brand and toggle get grouped for better mobile display -->
 
                   <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <button  type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
