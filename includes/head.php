@@ -13,9 +13,8 @@
 		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Nunito:700">
 
-		
+
 		<script src="jquery/jquery.min.js"></script>
 		<script src="bootstrap/js/bootstrap.js"></script>
 		<script type="text/javascript" src="jquery/bootstrap-hover-dropdown.min.js"></script>
-		<script src="js/all.js"></script>
 		</head>
